@@ -1,6 +1,25 @@
-# WebUi
+# Collaborate Timeplanner :rocket: :rocket: :rocket:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+## Poll-like Eventplanning
+
+Open-source collaborative timeplanner. :calendar: :date: :pencil2: :clock130:
+
+Core Features:
+
+- Create common events as a poll and share them between your colleagues, friends and other people, so they can sign as participants :pencil2:.
+- Get an overview of which persons are participating at which event to organize your events. :calendar:
+- Define eventtypes to structure your eventplan. :heavy_plus_sign:
+- Define rules like how many persons can sign in for a event or at which eventtypes they can participate.:heavy_check_mark: :heavy_multiplication_x:
+
+Use cases:
+
+- Work-related polls such lunch break plan, team events, ... :office: :information_source: :repeat:
+- Student group meetings, learning sessions, ... :mortar_board: :school: :books:
+- Planning in sportsclubs such as matches, catering, voluntary work, ... :soccer: :bicyclist: :basketball:
+- Leisure planning , family events, ... :bowling: :airplane: :roller_coaster:
+- ...
+
+Host on urself or visit: ...
 
 ## Development server
 
