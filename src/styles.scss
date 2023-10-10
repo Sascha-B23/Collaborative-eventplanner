@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+$font-path: '~carbon-components/src/globals/fonts';
+@use "@carbon/styles";
+
+/* Importing Bootstrap SCSS file. */
+@import "./node_modules/bootstrap/scss/bootstrap";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+/* Importing Datepicker SCSS file. */
+@import "node_modules/ngx-bootstrap/datepicker/bs-datepicker";
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+.primary-blue {
+    color: rgb(0,103,173);
+}
+
+.secondary-color {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+@import '../node_modules/ngx-bootstrap/datepicker/bs-datepicker.css';
