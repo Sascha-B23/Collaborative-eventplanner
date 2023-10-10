@@ -13,7 +13,7 @@ Core Features :rocket::
 
 Use cases :question::
 
-- Work-related polls such lunch break plan, team events, ... :office: :information_source: :repeat:
+- Work-related polls such as lunch break plans, team events, ... :office: :information_source: :repeat:
 - Student group meetings, learning sessions, ... :mortar_board: :school: :books:
 - Planning in sportsclubs such as matches, catering, voluntary work, ... :soccer: :bicyclist: :basketball:
 - Leisure planning , family events, ... :bowling: :airplane: :roller_coaster:
