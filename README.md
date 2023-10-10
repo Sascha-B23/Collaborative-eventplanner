@@ -1,6 +1,6 @@
 # Collaborate Timeplanner :rocket: :calendar: :date:
 
-## Poll-like Eventplanning
+## Poll-like eventplanning
 
 Open-source collaborative timeplanner. :calendar: :date: :pencil2: :clock130:
 
