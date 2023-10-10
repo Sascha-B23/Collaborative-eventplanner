@@ -1,4 +1,4 @@
-# Collaborate Timeplanner :rocket: :rocket: :rocket:
+# Collaborate Timeplanner :rocket: :calendar: :date:
 
 ## Poll-like Eventplanning
 
